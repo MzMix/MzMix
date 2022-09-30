@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MzMix
+- :man_student: Computer Science student
 - 👀 I’m interested in Rockets🚀, Science🧪 and Tech💻
 - 🌱 I’m currently learning JS, Vue3
 
