@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MzMix
-- :man_student: Computer Science student
+- :man_student: Computer Science student - My student profile @athMZ
 - 👀 I’m interested in Rockets🚀, Science🧪 and Tech💻
 - 🌱 I’m currently learning JS, Vue3
 
